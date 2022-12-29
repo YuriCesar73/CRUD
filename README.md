@@ -3,4 +3,10 @@
 
 * Guia dos arquivos
 
-  1 - index.js -> Arquivo com o codigo fonte da criação da CRUD
+  1 - index.js -> Arquivo com o código fonte da criação da CRUD
+  
+* Guia de Pastas
+
+  1 - CRUD - ORM -> Pasta com CRUD realizado com banco de dados e ORM
+   
+        1.1 - index.js -> Arquivo com o código fonte da criação da CRUD
